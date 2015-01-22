@@ -1,4 +1,4 @@
-# photoshop-extensions
+# List of Photoshop extensions
 
 A list of the extensions that will help you work much faster.
 
