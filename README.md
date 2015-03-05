@@ -50,4 +50,6 @@ A list of the extensions that will help you work much faster.
 
 [Zeick](https://gumroad.com/l/Zeick) - Photoshop CC and CC 2014 plugin allows you export vector shape layers to SVG files.
 
+[Hexy](http://missingpixels.io/plugins/hexy/) - Hexy allows you to use the Eyedropper tool to simply click on the color of the object you're after and copies it directly to your clipboard.
+
 Each extension has its own licence, see its homepage.
