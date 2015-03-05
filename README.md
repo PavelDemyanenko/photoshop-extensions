@@ -48,5 +48,6 @@ A list of the extensions that will help you work much faster.
 
 [Duplllicator](http://tools.enotart.ru/) - Clone layer or group and shift it horizontally or vertically with this extension.
 
+[Zeick](https://gumroad.com/l/Zeick) - Photoshop CC and CC 2014 plugin allows you export vector shape layers to SVG files.
 
 Each extension has its own licence, see its homepage.
