@@ -12,8 +12,6 @@ A list of the extensions that will help you work much faster.
 
 [Layrs Control 2](http://www.madebyvadim.com/layrs/) - Free Photoshop extension. A collection of 7 scripts that make tedious job easier.
 
-[BlendMe.In](http://blendme.in/) - Lets you search through thousands of SVG icons and vector objects right inside Photoshop itself.
-
 [LiveShare](http://www.invisionapp.com/lsps-download) - InVision extension – LiveShare lets you transform your designs into beautiful, interactive web & mobile ( iOS, Android) mockups and prototypes.
 
 [Devine Elemente](http://www.divine-project.com/) - Allows you to convert a layered PSD file into a full WordPress website including HTML, CSS and PHP files.
