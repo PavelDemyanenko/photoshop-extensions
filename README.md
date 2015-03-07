@@ -2,6 +2,8 @@
 
 A list of the extensions that will help you work much faster.
 
+[PNG Hat](http://pnghat.madebysource.com/) - Plugin automatically uploads assets to the server and with defined HTML/CSS templates you can paste the picture directly into your code.
+
 [CSS Hat 2](https://csshat.com/) - Select any Photoshop Layer and get CSS instantly.
 
 [Cut&Slice Me](http://www.cutandslice.me/) - Use Cut&Slice me to export your assets to different devices in seconds. Improve your workflow by just naming your layers.
