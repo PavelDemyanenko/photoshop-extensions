@@ -2,6 +2,8 @@
 
 A list of the extensions that will help you work much faster.
 
+[PNG Hat](http://pnghat.madebysource.com/) - Plugin automatically uploads assets to the server and with defined HTML/CSS templates you can paste the picture directly into your code.
+
 [CSS Hat 2](https://csshat.com/) - Select any Photoshop Layer and get CSS instantly.
 
 [Cut&Slice Me](http://www.cutandslice.me/) - Use Cut&Slice me to export your assets to different devices in seconds. Improve your workflow by just naming your layers.
@@ -9,8 +11,6 @@ A list of the extensions that will help you work much faster.
 [CSS3Ps](http://css3ps.com/) - Free cloud based photoshop plugin that converts your layers to CSS3.
 
 [Layrs Control 2](http://www.madebyvadim.com/layrs/) - Free Photoshop extension. A collection of 7 scripts that make tedious job easier.
-
-[BlendMe.In](http://blendme.in/) - Lets you search through thousands of SVG icons and vector objects right inside Photoshop itself.
 
 [LiveShare](http://www.invisionapp.com/lsps-download) - InVision extension – LiveShare lets you transform your designs into beautiful, interactive web & mobile ( iOS, Android) mockups and prototypes.
 
